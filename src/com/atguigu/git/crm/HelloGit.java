@@ -7,6 +7,7 @@ public class HelloGit {
 		System.out.println("Hello");
 		System.out.println("try");
 		System.out.println("onsfs");
+		System.out.println("AAA");
 	}
 
 }
