@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("onsfs");
 		System.out.println("AAA");
 		System.out.println("CCC");
+		System.out.println("XXXXXXX");
 	}
 
 }
