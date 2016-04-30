@@ -10,6 +10,7 @@ public class HelloGit {
 		System.out.println("AAA");
 		System.out.println("CCC");
 		System.out.println("XXXXXXX");
+		System.out.println("DDD");
 	}
 
 }
